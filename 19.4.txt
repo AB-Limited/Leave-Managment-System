@@ -1,0 +1,23 @@
+19.4 release notes:
+===============================================================================================================
+1.Deploy Applications Directly Across Environments:Application administrators can now deploy changes directly from one environment to another, without needing to download objects or switch environments
+For on-premises installations of Appian, a small update to your network configuration is necessary.
+2.new DocuSign connected system:you can quickly and easily create, manage, and send eSignatures using the new DocuSign connected system
+3.Our Google Drive connected system allows you to easily manage files and folders in Google Drive using OAuth 2.0 Authorization Code (per user).
+4.The new Google Cloud Translation connected system enables you to quickly and easily translate text and detect language
+5.dded a new component, the tag field, plus additional styling options to existing components.(Displays a list of short text labels with colored background to highlight important attributes.)
+Tags are the perfect way to highlight important attributes on an interface, such as task status or record classification.
+6.Progress Bar Component:Displays a completion percentage.Similar to the  gauge component, but with a bar style rather than a circular style
+7.Icons are available in button layout now
+8.AUTO height option present in billboard layout
+9.Save Record List Filters
+10.a search box is automatically added to filters with more than 11 items
+11.you can now set up, schedule, and run Health Check on each of your environments straight from the Administration Console plus it includes a detailed history of previous runs
+12.new configuration option 'Show Task List (Mobile Only)' exposed under the Site properties
+13.Formatted Test Output for Rules and Integrations
+14.Toggle Between Precedents and Dependents
+15.You can move an existing swimlane up or down inside the process modeler
+16.In Start Process smart service  Now you can open the selected process model by right-clicking on the Start Process node, similar to the experience with the Sub-Process node.
+17.Enhanced Process Model Comparisons
+18.Appian Cloud now supports hosting Appian Cloud sites in a new region: Bahrain,Customers can use this new region to better serve their users and operations globally.
+19.They have enhanced the security of the data server
