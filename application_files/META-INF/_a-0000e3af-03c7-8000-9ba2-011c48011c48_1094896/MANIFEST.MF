@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-On: 2020-04-20T17:07:17.358Z
-Appian-Version: 19.4.108.0
-
