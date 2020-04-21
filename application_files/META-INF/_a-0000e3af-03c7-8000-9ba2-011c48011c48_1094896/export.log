@@ -1,0 +1,42 @@
+Success (2):
+datatype 7058 {urn:com:appian:types:LMS}LMS_Leave "{urn:com:appian:types:LMS}LMS_Leave"
+application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 "AB Leave Management System"
+
+Referenced precedents that were not exported (1):
+user ajinkya ajinkya
+
+Trace:
+2020-04-21 11:23:48.257 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Begin transport.
+2020-04-21 11:23:48.257 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Retrieving object data.
+2020-04-21 11:23:48.261 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 App associated objects: [datatype=[{urn:com:appian:types:LMS}LMS_Leave]]
+2020-04-21 11:23:48.261 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Invalid associated objects: []
+2020-04-21 11:23:48.261 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Adding valid associated objects to be exported: GlobalBindingMap[datatype={{urn:com:appian:types:LMS}LMS_Leave=7058}]
+2020-04-21 11:23:48.261 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Setting uuids of object references.
+2020-04-21 11:23:48.262 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: Application.forum
+2020-04-21 11:23:48.262 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: Application.parent
+2020-04-21 11:23:48.264 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@1e49a7e9[
+  ContentRole[name=readers,inherit=false,allowForAll=false]
+  ContentRole[name=authors,inherit=false,allowForAll=false]
+  ContentRole[name=administrators,usernames=[ajinkya],inherit=false,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=129:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=true,SEC_INH_ADMIN=false,SEC_INH_EDITOR=false,SEC_INH_VIEWER=false,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2020-04-21 11:23:48.264 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: ContentRole[name=readers,inherit=false,allowForAll=false]
+2020-04-21 11:23:48.265 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: ContentRole[name=authors,inherit=false,allowForAll=false]
+2020-04-21 11:23:48.265 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: ContentRole[name=administrators,usernames=[ajinkya],inherit=false,allowForAll=false]
+2020-04-21 11:23:48.266 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2020-04-21 11:23:48.266 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2020-04-21 11:23:48.266 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2020-04-21 11:23:48.266 DEBUG datatype 7058 {urn:com:appian:types:LMS}LMS_Leave Begin transport.
+2020-04-21 11:23:48.266 DEBUG datatype 7058 {urn:com:appian:types:LMS}LMS_Leave Retrieving object data.
+2020-04-21 11:23:48.287 DEBUG datatype 7058 {urn:com:appian:types:LMS}LMS_Leave Setting uuids of object references.
+2020-04-21 11:23:48.288 DEBUG datatype 7058 {urn:com:appian:types:LMS}LMS_Leave Completing produce.
+2020-04-21 11:23:48.288 DEBUG datatype 7058 {urn:com:appian:types:LMS}LMS_Leave Exporting binary resources.
+2020-04-21 11:23:48.288 DEBUG datatype 7058 {urn:com:appian:types:LMS}LMS_Leave Serializing object to XML.
+2020-04-21 11:23:48.291 DEBUG datatype 7058 {urn:com:appian:types:LMS}LMS_Leave Object transported.
+2020-04-21 11:23:48.292 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Completing produce.
+2020-04-21 11:23:48.292 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Exporting binary resources.
+2020-04-21 11:23:48.292 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Serializing object to XML.
+2020-04-21 11:23:48.3 DEBUG application 97696 _a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896 Object transported.
