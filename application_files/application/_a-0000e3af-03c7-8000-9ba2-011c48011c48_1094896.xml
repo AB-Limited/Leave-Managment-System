@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000e3af-03c7-8000-9ba2-011c48011c48_1134719</versionUuid>
+    <versionUuid>_a-0000e451-3b0b-8000-9bbb-011c48011c48_1311430</versionUuid>
     <application>
-        <name>AB Leave Management System</name>
+        <name>AB_LMS</name>
         <uuid>_a-0000e3af-03c7-8000-9ba2-011c48011c48_1094896</uuid>
         <description>This is application to streamline the leave management process in the organization</description>
         <parentUuid>SYSTEM_APPLICATIONS_ROOT</parentUuid>
@@ -247,5 +247,6 @@
     </roleMap>
     <history>
         <historyInfo versionUuid="_a-0000e3af-03c7-8000-9ba2-011c48011c48_1134719"/>
+        <historyInfo versionUuid="_a-0000e451-3b0b-8000-9bbb-011c48011c48_1311430"/>
     </history>
-</applicationHaul><!--updated on 2020-04-27T23:13:35.464-->
+</applicationHaul><!--updated on 2020-04-27T23:19:39.420-->
